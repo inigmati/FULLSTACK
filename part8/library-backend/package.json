@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "lodash.countby": "^4.6.0",
     "lodash.merge": "^4.6.2",
-    "mongoose": "^5.8.11",
+    "mongoose": "^5.13.20",
     "mongoose-unique-validator": "^2.0.3"
   },
   "devDependencies": {
